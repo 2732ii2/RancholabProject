@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Screenshot 
+<img width="1440" alt="Screenshot 2023-06-15 at 11 24 25 AM" src="https://github.com/2732ii2/RancholabProject/assets/83974207/ea30d8b9-af3a-4263-a7aa-ba67b4458e3c">
+
 ## Available Scripts
 
 In the project directory, you can run:
